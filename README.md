@@ -11,7 +11,7 @@ Get started
 Clone the repo
 
 ```
-git clone https://github.com/flskif/frontend-boilerplate YOUR_APP
+git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
 ```
 
 Navigate to you brand new app
