@@ -16,15 +16,22 @@ git clone https://github.com/flskif/frontend-boilerplate YOUR_APP
 
 Navigate to you brand new app
 
-```cd YOUR_APP```
+```
+cd YOUR_APP
+```
 
 Install required gems
 
-```bundle install```
+```
+bundle install
+```
 
 And start server
 
-```rackup```
+```
+rackup
+```
+
 
 Tools included
 ---------------
