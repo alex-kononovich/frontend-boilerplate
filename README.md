@@ -5,31 +5,31 @@ Ideal for use with [LiveReload](http://livereload.com) - light, quick, your page
 Sinatra application.
 Assets are served with sprockets.
 
-Get started
+Getting started
 -----------
 
 Clone the repo
 
 ```
-git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
+$> git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
 ```
 
 Navigate to you brand new app
 
 ```
-cd YOUR_APP
+$> cd YOUR_APP
 ```
 
 Install required gems
 
 ```
-bundle install
+$> bundle install
 ```
 
 And start server
 
 ```
-rackup
+$> rackup
 ```
 
 
