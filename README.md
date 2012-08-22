@@ -14,7 +14,7 @@ Clone the repo
 $> git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
 ```
 
-Navigate to you brand new app
+Navigate to your brand new app
 
 ```
 $> cd YOUR_APP
