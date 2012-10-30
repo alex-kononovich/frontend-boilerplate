@@ -40,6 +40,12 @@ end
 get '/:page' do
   page = params[:page]
   unless page == "favicon.ico"
-    slim page.to_sym
+    slim page.to_sym, layout: :"layouts/application"
   end
+end
+
+get '/:layout/:page' do
+  page = params[:page]
+  layout = params[:layout]
+  slim page.to_sym, layout: :"layouts/#{layout}"
 end
