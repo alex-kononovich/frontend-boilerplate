@@ -1,29 +1,29 @@
-Lightweight environment for frontend development with SASS, Compass, Slim and CoffeeScript
-==========================================================================================
+Develop with SASS, Compass, Slim and CoffeeScript
+=================================================
 
 Getting started
------------
+---------------
 
 Clone the repo
 
 ```
-$> git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
+$ git clone git://github.com/flskif/frontend-boilerplate.git YOUR_APP
 ```
 
 Navigate to your brand new app
 
 ```
-$> cd YOUR_APP
+$ cd YOUR_APP
 ```
 
 Install required gems
 
 ```
-$> bundle install
+$ bundle install
 ```
 
 And start server
 
 ```
-$> rackup
+$ rackup
 ```
