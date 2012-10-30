@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 gem 'sinatra'
-gem 'sinatra-helpers'
+gem 'sinatra-partial'
 gem 'slim'
 gem 'coffee-script'
 gem 'sass'
