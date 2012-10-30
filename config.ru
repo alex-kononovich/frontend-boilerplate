@@ -38,5 +38,8 @@ get "/" do
 end
 
 get '/:page' do
-  slim params[:page].to_sym
+  page = params[:page]
+  unless page == "favicon.ico"
+    slim page.to_sym
+  end
 end
